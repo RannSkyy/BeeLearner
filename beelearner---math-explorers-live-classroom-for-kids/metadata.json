@@ -1,0 +1,6 @@
+{
+  "name": "BeeLearner - Math Explorers Live Classroom for Kids",
+  "description": "Interactive, gamified 1-on-1 live math learning platform for kids with animated animal companions, virtual classroom tablet, and kid-friendly mini games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
